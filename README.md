@@ -29,6 +29,16 @@
 - Update the store with Trailer Video data
 - Embedded the YouTube video and make it autoplay and mute
 - Tailwind Classes to make MainContainer look good
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browser page amazing with Tailwind CSS
+- usePopularMovies, useTopRatedMovies, useUpcomingMovies Custom Hooks
+- GPT Searh Page
+- GPT Search Bar
+- Multi-language feature in our App
+- Integrate GPT
 
 # Features
 
