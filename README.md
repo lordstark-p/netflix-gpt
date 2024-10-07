@@ -35,6 +35,12 @@
 - TMDB Image CDN URL
 - Made the Browser page amazing with Tailwind CSS
 - usePopularMovies, useTopRatedMovies, useUpcomingMovies Custom Hooks
+- Hide the scroll bar
+  - npm install tailwind-scrollbar-hide
+  - add plugin to tailwind.config.js --> plugins: [
+    require('tailwind-scrollbar-hide')
+    // ...
+    ]
 - GPT Searh Page
 - GPT Search Bar
 - Multi-language feature in our App
