@@ -45,6 +45,13 @@
 - GPT Search Bar
 - Multi-language feature in our App
 - Integrate GPT
+- GPT Search GEMINI AI API key
+- fetched gptMoviesSuggestions from TMDB
+- Reused Movie List Component to make movie suggestion container
+- Added .env file
+- Adding .env file to git ignore
+- Memoization
+- Made our site responsive
 
 # Features
 
